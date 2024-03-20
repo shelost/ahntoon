@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.scrollable",
+            "sha256_cert_fingerprints": [
+                "D1:44:E2:82:49:B2:74:70:93:DA:01:FD:F6:5D:82:A0:FB:C5:E7:78:F3:25:A7:29:F3:82:25:F0:05:74:B2:C0"
+            ]
+        }
+    }
+]
