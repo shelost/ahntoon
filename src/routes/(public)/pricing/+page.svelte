@@ -1,3 +1,5 @@
+<!--
+
 <script type="ts">
     import type { PageData } from './$types'
     import Pricing from "$lib/components/Pricing.svelte";
@@ -30,5 +32,7 @@
         {/if}
     </div>
 </section>
+
+-->
 
 
